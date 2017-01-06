@@ -7,12 +7,12 @@ CUBE_SIZE = 30
 FONT = QtGui.QFont('Roboto', 10)
 COLORS = {
     None: '#FFFFFF',
-    CubeColor.RED: '#EF476F',
-    CubeColor.YELLOW: '#FFD166',
-    CubeColor.LIME: '#00D65C',
-    CubeColor.BLUE: '#00798C',
-    CubeColor.ORANGE: '#E28534',
-    CubeColor.VIOLET: '#7700BC'
+    CubeColor.RED: '#DB4C40',
+    CubeColor.YELLOW: '#FFEE75',
+    CubeColor.LIME: '#00A878',
+    CubeColor.BLUE: '#5B8DC6',
+    CubeColor.ORANGE: '#FF783A',
+    CubeColor.VIOLET: '#9B3096'
 }
 SIZES = ['10', '15', '20', '25', '30']
 COLOR_COUNTS = ['3', '4', '5', '6']
